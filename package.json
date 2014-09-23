@@ -1,0 +1,16 @@
+{
+  "name": "gulp-stylus-88",
+  "version": "1.0.0",
+  "description": "gulp-stylus issue 88",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.8.8",
+    "gulp-stylus": "^1.3.3",
+    "nib": "^1.0.3"
+  }
+}
